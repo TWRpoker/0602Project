@@ -8,6 +8,11 @@ fun main(args: Array<String>) {
     // var 不能再改變他的值
     var h = Human()
     h.hello()
+
+    val age = 12
+
+    var name : String
+//    name = "123"
 }
 
 
